@@ -3,5 +3,4 @@
 Poke API를 이용하여 서버에 정보를 요청하고 데이터를 가공한 후 사용자에게 표현하는 과정에 대해 집중적으로 탐구한 프로젝트입니다.
 
 데이터를 요청하고 받아오는 과정과 받아온 데이터를 가공하여 사용자에게 편리하게 제공하는 기능들을 구현해보는 프로젝트 였습니다.
-
-[DEMO](https://react-poke-app1.netlify.app/)
+(https://react-poke-app1.netlify.app/)
